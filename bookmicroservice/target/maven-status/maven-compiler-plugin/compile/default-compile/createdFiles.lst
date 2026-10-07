@@ -1,0 +1,5 @@
+com\klu\bookmicroservice\controller\BookControlle.class
+com\klu\bookmicroservice\repo\BookRepository.class
+com\klu\bookmicroservice\service\BookService.class
+com\klu\bookmicroservice\BookmicroserviceApplication.class
+com\klu\bookmicroservice\model\Book.class
